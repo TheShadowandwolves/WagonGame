@@ -1,6 +1,6 @@
 # WagonGame
 
-Hey lovers, <br>
+<h1>Hey lovers, </h1><br>
 Here is a new game that I made. Finally finished!<br>
 Now, what is it? <br>
 See, its a game about a train departing from the warehouse. You job is it to to load each wagon of its maximum hold. <br>
