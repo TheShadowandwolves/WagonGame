@@ -8,7 +8,7 @@ As much as each wagon holds. <b>Behold!</b> Don't be stupid! <br>
 You cannot load as much as you want. Each wagon has a maximum weight limit. That of course: <b> You don't know it!</b>
 So buckle so seat and guess right! Because if you overweight something, you crash. And its <i>Game over<i>
 <p> Of course there are indicators that help you with it, currently I am missing the right symbols to show it but I make here a short one: </p>
-<ul style=style="background-color: blue; color: green">
+<ul style="background-color: blue; color: green">
 <li>	front_train = "<[''']>" = start </li>
 <li>		wagon_empty = "<|___|>" = empty wagon (0-100)</li>
 <li>		wagon_half = "<|---|>" = half full (499-400)</li>
